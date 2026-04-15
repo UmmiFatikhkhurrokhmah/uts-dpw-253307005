@@ -2,11 +2,11 @@
 
 ## Identitas Mahasiswa
 
-| Field  | Keterangan         |
-|--------|--------------------|
-| NIM    | 123456             |
-| Nama   | (Nama Mahasiswa)   |
-| Kelas  | TI-2A              |
+| Field  | Keterangan              |
+|--------|-------------------------|
+| NIM    | 253307005               |
+| Nama   | Ummi Fatikhkhurrokhmah  |
+| Kelas  | TI-2A                   |
 
 ---
 
